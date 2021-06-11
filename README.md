@@ -23,9 +23,23 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+Ans:Use headings correctly to organize the structure of your content.Use color with care,Include proper alt text for images,Give your links unique and descriptive names.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+Ans: 1: Screen reader users can use heading structure to navigate content. By using headings (<h1>, <h2>, etc.) correctly and strategically, the content of your website will be well-organized and easily interpreted by screen readers.
+2:Alt text should be provided for images, so that screen reader users can understand the message conveyed by the use of images on the page If an image is the only content of a link, the screen reader will read the file name if alt text is not provided. Always provide alt text for images that are used as links.
+3:When including links in your content, use text that properly describes where the link will go.
+For example, if you are pointing visitors to a page called "About Us":
+Try not to say: "Click here to read about our company."
+Instead, say: "To learn more about our company, read About Us."
+If you applied all those in website you're website will be accessible.
+
 3. How would you explain the concept of a variable to someone new to programming?
+ Ans:Variables are used to store information to be referenced and manipulated in a computer program.A variable is a memory location.The memory location is used to hold data.Rather than entering data directly into a program, a programmer can use variables to represent the data.Variable can take 3 types of value. 1=string, 2=boolean, 3=integer.
+
 4. What is the purpose of using functions in code?
+Ans: Functions usually "take in" data, process it, and "return" a result. Once a function is written, it can be used over and over and over again. Functions can be "called" from the inside of other functions.
+Use of functions enhances the readability of a program. Functions keeps the program organized, easy to understand and makes it reusable.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
