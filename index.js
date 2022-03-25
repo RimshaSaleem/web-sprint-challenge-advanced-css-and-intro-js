@@ -298,6 +298,7 @@ function addArtist(array, id, names, years, genre, bio){
     
 
   }
+  
 
   console.log('taskcheck6',addArtist(artists, 20, 'Rimsha', 21 , 'Future Web Developer','I love food'));
 
